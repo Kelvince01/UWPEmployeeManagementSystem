@@ -1,2 +1,4 @@
 # UWPEmployeeManagementSystem
-Sample UWP desktop application
+UWP Employee Management system desktop application
+*- Add Employee*
+*- Update Employee*
